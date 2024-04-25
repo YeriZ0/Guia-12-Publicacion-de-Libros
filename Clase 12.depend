@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1714083210 source:d:\universidad uso\ciclo iii\programación ii\clase 12 g01 - fredy alexander campos figueroa\clase 12\main.cpp
+	<iostream>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	"Libro.h"
+	"Revista.h"
+
+1714080751 d:\universidad uso\ciclo iii\programación ii\clase 12 g01 - fredy alexander campos figueroa\clase 12\libro.h
+	"Publicacion.h"
+	"iPrestable.h"
+
+1714083332 d:\universidad uso\ciclo iii\programación ii\clase 12 g01 - fredy alexander campos figueroa\clase 12\publicacion.h
+	<string.h>
+
+1714072260 d:\universidad uso\ciclo iii\programación ii\clase 12 g01 - fredy alexander campos figueroa\clase 12\iprestable.h
+
+1714080719 d:\universidad uso\ciclo iii\programación ii\clase 12 g01 - fredy alexander campos figueroa\clase 12\revista.h
+	"Publicacion.h"
+
